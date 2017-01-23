@@ -18,7 +18,8 @@ small webpage on using R.
 
 3. Setup R so that it seamlessly handles multiple versions of R,
 multiple interfaces (R text-based environment, RStudio, RStudio
-Server) and different package installation locations.
+Server, Jupyter, Rscript) and different package installation
+locations.
 
 4. Come up with reasonable guidelines for updating packages, and
 handling module (library) dependencies.
