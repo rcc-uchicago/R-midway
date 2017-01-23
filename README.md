@@ -36,3 +36,11 @@ instructions on using RStudio and RStudio Server.
 community (perhaps, ultimately, as an R package on CRAN).
 
 8. Use git and github as much as possible to keep track of progress.
+
+## Useful resources
+
+*Add links to useful Web resources here.*
+
+## Other notes
+
+*Add miscellaneous notes here.*
