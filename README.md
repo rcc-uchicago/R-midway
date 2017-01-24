@@ -42,6 +42,8 @@ community (perhaps, ultimately, as an R package on CRAN).
 
 *Add links to useful Web resources here.*
 
+https://cran.r-project.org/bin/linux/debian/ <- Debian website, detailing use of R packages
+
 ## Other notes
 
 *Add miscellaneous notes here.*
