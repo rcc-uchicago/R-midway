@@ -40,8 +40,9 @@ community (perhaps, ultimately, as an R package on CRAN).
 
 ## Useful resources
 
-See [here](web-resources.md).
++ See [here](web-resources.md).
 
 ## Other notes
 
-*Add miscellaneous notes here.*
++ See [here](previous-work.md) for previous works/resources that are
+  related to this project.
