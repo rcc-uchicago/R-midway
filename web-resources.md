@@ -10,3 +10,5 @@
   ([link](http://cran.r-project.org/bin/linux/debian)).
 
 + [keeping packages updated](http://askubuntu.com/questions/118671/good-workflow-for-updating-r-modules-around-r-cran-updates).
+
++ ["how to make mistakes in R"](https://github.com/andrewflowers/how-to-make-mistakes-in-R)
