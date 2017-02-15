@@ -44,5 +44,5 @@ community (perhaps, ultimately, as an R package on CRAN).
 
 ## Other notes
 
-+ See [here](previous-work.md) for previous works/resources that are
++ See [here](related-work.md) for previous works/resources that are
   related to this project.
