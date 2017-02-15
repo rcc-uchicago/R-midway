@@ -1,0 +1,4447 @@
+10d9
+< ashr
+24d22
+< BradleyTerry2
+26d23
+< brglm
+30,32d26
+< cats
+< causalTree
+< cellranger
+36d29
+< clusterSim
+43,44d35
+< conjoint
+< corpcor
+46,47d36
+< csvy
+< Cubist
+49c38
+< dada2
+---
+> data.table
+52d40
+< data.table
+54d41
+< dclone
+57d43
+< DiagrammeR
+65,66d50
+< doRNG
+< doSNOW
+68d51
+< DT
+71,72d53
+< earth
+< ellipse
+74d54
+< etrunct
+79,80d58
+< fastICA
+< fda
+82d59
+< FNN
+89d65
+< gam
+91d66
+< gbm
+96d70
+< geoR
+99c73
+< ggvis
+---
+> ggthemes
+110d83
+< gstat
+113d85
+< haven
+117a90
+> htmlTable
+121d93
+< httpuv
+123d94
+< hwriter
+126d96
+< influenceR
+128,129d97
+< intervals
+< ipred
+131,132d98
+< IRdisplay
+< IRkernel
+134d99
+< ISwR
+136d100
+< itertools
+138d101
+< kernlab
+142d104
+< ks
+147d108
+< lava
+149d109
+< leaflet
+151d110
+< limma
+158,160d116
+< manipulate
+< mapdata
+< mapproj
+174d129
+< mda
+180d134
+< miniUI
+184,185d137
+< mlbench
+< MLmetrics
+186a139
+> modeest
+193d145
+< ncdf
+200d151
+< NLP
+203d153
+< numDeriv
+205d154
+< openxlsx
+207d155
+< pamr
+209,210c157
+< party
+< pbdZMQ
+---
+> pbdMPI
+212d158
+< PCAviz
+218,220d163
+< plotmo
+< plotrix
+< pls
+222d164
+< png
+224d165
+< pomp
+227,230d167
+< pROC
+< prodlim
+< profileModel
+< proto
+232d168
+< pscl
+234d169
+< qtl
+239,240d173
+< RandomFields
+< RandomFieldsUtils
+243,244d175
+< RANN
+< raster
+251d181
+< readODS
+254d183
+< readxl
+256,257d184
+< rematch
+< repr
+260,261d186
+< rgdal
+< rgl
+263d187
+< rio
+265d188
+< rJava
+270,271d192
+< RMySQL
+< RNetCDF
+273d193
+< ROCR
+276d195
+< rpart.plot
+280,281d198
+< RSclient
+< Rserve
+284d200
+< rstudio
+285a202
+> rsvd
+288d204
+< rworldxtra
+294,297d209
+< shiny
+< shinydashboard
+< shinyjs
+< ShortRead
+301a214
+> sourcetools
+303d215
+< spacetime
+309d220
+< splancs
+311,312d221
+< spls
+< SQUAREM
+320d228
+< strucchange
+322,323c230
+< subselect
+< superpc
+---
+> SummarizedExperiment
+326d232
+< TeachingDemos
+332d237
+< tm
+335,338d239
+< triebeard
+< truncnorm
+< udunits2
+< urltools
+340,341d240
+< uuid
+< varbvs
+342a242
+> viridis
+344,346d243
+< visNetwork
+< vizbase
+< webshot
+350,352d246
+< wordcloud
+< xlsx
+< xlsxjars
+354d247
+< xml2
+356d248
+< xts
+361,722c253,506
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< /software/R-3.2-el6-x86_64/lib64/R/library
+< 1.4-3
+< 1.3-3.3
+---
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> /software/R-3.3-el7-x86_64/lib64/R/library
+> 1.4-5
+> 1.4.1
+727,730c511,513
+< 1.30.1
+< 3.4
+< 1.8-6
+< 2.0.5
+---
+> 1.36.0
+> 3.5
+> 1.9-1
+733c516
+< 3.2.1
+---
+> 3.3.2
+736,741c519,524
+< 1.60.0-2
+< 2.28.0
+< 0.14.0
+< 1.18.5
+< 1.2.22
+< 2.36.4
+---
+> 1.62.0-1
+> 2.34.0
+> 0.20.0
+> 1.24.0
+> 1.8.1
+> 2.42.0
+745,748c528,529
+< 1.0-6
+< 0.5-9
+< 1.36.3
+< 2.0-26
+---
+> 1.42.0
+> 2.1-3
+750,752d530
+< 0.0.0.9000
+< 0.0
+< 1.1.0
+755,756c533
+< 2.0.4
+< 0.44-2
+---
+> 2.0.5
+758c535
+< 0.2-14
+---
+> 0.2-15
+760c537
+< 1.2-6
+---
+> 1.3-1
+762,771c539,541
+< 3.2.1
+< 1.39
+< 1.6.8
+< 1.3.1
+< 0.1.3
+< 0.0.18
+< 0.9.7
+< 1.0.3
+< 0.2.21
+< 3.2.1
+---
+> 3.3.2
+> 1.3.2
+> 2.2
+773,775c543,546
+< 0.4-1
+< 2.0-0
+< 1.13
+---
+> 0.2.21
+> 3.3.2
+> 0.5-1
+> 1.14
+777d547
+< 0.8.2
+779c549
+< 0.6.9
+---
+> 0.6.10
+782c552
+< 0.9-8
+---
+> 0.9-9
+785,788c555
+< 1.6
+< 1.0.14
+< 0.4.3
+< 0.2
+---
+> 0.5.0
+791,794c558
+< 4.4.7
+< 0.3-8
+< 1.1-1
+< 0.1
+---
+> 1.2
+797,800c561,562
+< 2.0-7
+< 1.1.20
+< 1.2-0
+< 2.4.4
+---
+> 2.0-8
+> 1.1.21
+802d563
+< 1.1
+804,805c565,566
+< 0.8-66
+< 1.2
+---
+> 0.8-67
+> 1.4
+807c568
+< 1.4.1
+---
+> 1.4.3
+809d569
+< 1.14
+811d570
+< 2.1.1
+813,816c572,574
+< 1.4.3
+< 1.4.2
+< 1.20.8
+< 1.7-5.2
+---
+> 1.10.1
+> 1.10.0
+> 1.26.1
+819,820c577,578
+< 0.4.3
+< 0.15.0
+---
+> 3.3.0
+> 0.16.0
+823c581
+< 3.1.2
+---
+> 3.4.0
+825,827c583,585
+< 3.2.1
+< 3.2.1
+< 3.2.1
+---
+> 3.3.2
+> 3.3.2
+> 3.3.2
+830d587
+< 1.1-3
+833d589
+< 1.0.0
+835,838d590
+< 0.5
+< 3.17-4
+< 0.3
+< 0.3.5
+840,843c592,598
+< 1.14.0
+< 1.3.3
+< 1.1.0
+< 1.3.2
+---
+> 4.0-0
+> 0.2
+> 1.7
+> 0.3.5
+> 0.8
+> 1.22.0
+> 1.2.1
+845,846c600
+< 1.42.0
+< 0.0.0.9000
+---
+> 1.48.0
+848,854c602,603
+< 0.15.1
+< 0.9-5
+< 2.2.9
+< 0.4.3
+< 0.6
+< 2.0.0
+< 2.0-7
+---
+> 2.8.1
+> 2.1.2
+856,858c605
+< 0.1-3
+< 1.0
+< 0.9-25
+---
+> 1.1
+861,862c608
+< 1.15.1
+< 1.10.3
+---
+> 1.15
+864,865c610,611
+< 1.1.7
+< 0.20-33
+---
+> 1.1.9
+> 0.20-34
+867d612
+< 1.4.5
+869d613
+< 1.0.1
+871d614
+< 3.24.15
+873c616
+< 2.0-30
+---
+> 2.0-32
+876c619
+< 2.23
+---
+> 2.25
+878,882c621,622
+< 99.9.9
+< 2.2-6
+< 1.2-4
+< 3.1.0
+< 0.8-39
+---
+> 3.1.1
+> 0.8-40
+886c626
+< 1.2-6
+---
+> 1.2-7.1
+889c629
+< 0.50.2
+---
+> 0.51.0
+893,894c633
+< 1.3-6
+< 0.4-9
+---
+> 1.3-8
+896,897c635,636
+< 3.2.1
+< 1.8-12
+---
+> 3.3.2
+> 1.8-16
+899,900c638
+< 0.4
+< 0.1.1
+---
+> 0.5
+903,905c641
+< 0.6-16
+< 2.1-1
+< 1.1.1
+---
+> 0.6-20
+906a643
+> 2.1
+908c645
+< 1.4-5
+---
+> 1.4-6
+910c647
+< 2.24.0
+---
+> 2.30.0
+913d649
+< 1.6.9
+917c653
+< 3.0.1
+---
+> 3.0.3
+920d655
+< 0.1-8
+923,925c658
+< 2016.8-1
+< 0.9.3
+< 3.0.0
+---
+> 0.9.5
+927,934c660,664
+< 1.55
+< 3.2.1
+< 1.0-25
+< 0.2-3
+< 0.4-2
+< 0.1-0
+< 0.97
+< 0.9-0
+---
+> 3.3.2
+> 0.3-3
+> 0.4-6
+> 0.98
+> 0.9-4
+938,942c668
+< 3.3.0
+< 3.6-3
+< 2.5-0
+< 1.8.3
+< 0.1-7
+---
+> 1.8.4
+944d669
+< 1.4.1.1
+946,952c671,672
+< 1.30.0
+< 1.8
+< 1.5.7
+< 0.5-9
+< 0.3-10
+< 0.4-15
+< 1.4.9
+---
+> 1.36.0
+> 0.4-16
+954,960c674,677
+< 1.40-8
+< 5.24
+< 2.3.1
+< 2.1.2
+< 1.2.1
+< 3.1.16
+< 0.2.1.1
+---
+> 5.29
+> 2.3.2
+> 2.2.0
+> 1.8.0
+963,965c680
+< 2.5
+< 2.5-8
+< 0.1-2
+---
+> 0.1-3
+967,969c682,684
+< 0.12.6
+< 0.7.200.2.0
+< 0.3.2.8.1
+---
+> 0.12.8
+> 0.7.500.0.0
+> 0.3.2.9.0
+971d685
+< 1.6.4
+974d687
+< 0.1.1
+976,981c689,690
+< 1.0.1
+< 0.9
+< 0.8.5
+< 1.4.1
+< 1.2-4
+< 0.95.1441
+---
+> 0.8.6
+> 1.4.2
+983,985c692
+< 0.4.16
+< 1.8.0
+< 0.9-8
+---
+> 1.14.0
+988,991c695,696
+< 0.6-0
+< 0.6-5
+< 0.10.9
+< 1.8-2
+---
+> 0.6-1
+> 0.6-6
+993d697
+< 1.0-7
+996d699
+< 2.1.0
+999,1001c702
+< 1.20.5
+< 0.7-3
+< 1.7-3
+---
+> 1.26.1
+1004,1006c705,707
+< 99.9.9
+< 0.5
+< 1.28.10
+---
+> 0.6
+> 0.6
+> 1.34.1
+1008,1009c709
+< 1.01
+< 0.6.6
+---
+> 0.12.0
+1012c712
+< 3.1-7
+---
+> 3.1-8
+1014,1017d713
+< 0.13.2
+< 0.5.1
+< 0.6
+< 1.26.0
+1019,1025c715,721
+< 0.1-34
+< 2.3-2
+< 0.4-1
+< 1.2-3
+< 1.1-5
+< 1.3-0
+< 1.7
+---
+> 0.1-39
+> 2.4
+> 0.4-2
+> 0.1.5
+> 1.2-4
+> 1.4-0
+> 1.74
+1029,1034c725,727
+< 2.01-38
+< 3.2.1
+< 2.2-1
+< 2016.8-2
+< 2.12.0-1
+< 1.4.24
+---
+> 3.3.2
+> 2.14.0-1
+> 1.4.27
+1036,1046c729,736
+< 3.2.1
+< 3.2.1
+< 1.0-1
+< 1.0.0
+< 1.5-1
+< 1.1-6
+< 0.12-6
+< 1.09
+< 2.39-4
+< 3.2.1
+< 2.10
+---
+> 3.3.2
+> 3.3.2
+> 1.1.2
+> 1.1.0
+> 1.2-2
+> 1.4.0
+> 2.40-1
+> 3.3.2
+1050c740
+< 1.1
+---
+> 1.2
+1052,1053c742
+< 0.6-2
+< 3.2.1
+---
+> 3.3.2
+1055,1062c744,746
+< 0.3.0
+< 1.0-7
+< 0.8.1
+< 1.6.0
+< 3.2.1
+< 0.1-2
+< 2.0.0
+< 2.3-5
+---
+> 3.3.2
+> 2.4-1
+> 0.3.4
+1064,1066d747
+< 1.0.0
+< 0.1.0
+< 0.4.0
+1069,1074c750,751
+< 1.0.1
+< 2.5
+< 0.5.7
+< 0.6.1
+< 3.98-1.4
+< 1.0.0
+---
+> 1.0.2
+> 3.98-1.5
+1076,1079c753,755
+< 0.9-7
+< 0.8.0
+< 2.1.13
+< 1.14.0
+---
+> 0.14.0
+> 2.1.14
+> 1.20.0
+1092d767
+< NA
+1109,1113d783
+< NA
+< NA
+< NA
+< NA
+< NA
+1117d786
+< NA
+1127,1130d795
+< NA
+< NA
+< NA
+< NA
+1152,1163d816
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+1182,1184d834
+< NA
+< NA
+< NA
+1208,1218d857
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+1224d862
+< NA
+1238,1243d875
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+1255d886
+< NA
+1275,1277d905
+< NA
+< NA
+< NA
+1281d908
+< NA
+1285,1287d911
+< NA
+< NA
+< NA
+1327,1354d950
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+1379,1386d974
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+1389d976
+< NA
+1394,1395d980
+< NA
+< NA
+1402,1403d986
+< NA
+< NA
+1411,1412d993
+< NA
+< NA
+1415,1418d995
+< NA
+< NA
+< NA
+< NA
+1432,1440d1008
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+1448c1016
+< 0.13.8), Biobase (>= 1.17.0), GenomeInfoDb(>= 0.99.17)
+---
+> 0.15.10), Biobase (>= 1.17.0), IRanges
+1451d1018
+< R (>= 3.1.0)
+1460c1027
+< R (>= 3.2.0)
+---
+> R (>= 3.3.0)
+1462,1463c1029,1030
+< R (>= 2.8.0), methods, BiocGenerics (>= 0.11.3), S4Vectors (>=
+< 0.5.21), IRanges (>= 2.1.2), XVector (>= 0.7.3)
+---
+> R (>= 2.8.0), methods, BiocGenerics (>= 0.15.6), S4Vectors (>=
+> 0.11.1), IRanges (>= 2.5.27), XVector (>= 0.11.6)
+1466d1032
+< R (>= 2.10), lme4 (>= 1.0)
+1468d1033
+< R (>= 2.6.0), profileModel
+1470,1471c1035,1036
+< 0.5.10), IRanges (>= 2.1.33), GenomeInfoDb (>= 1.3.19),
+< GenomicRanges (>= 1.19.23), Biostrings (>= 2.35.3), rtracklayer
+---
+> 0.9.36), IRanges (>= 2.1.33), GenomeInfoDb (>= 1.3.19),
+> GenomicRanges (>= 1.23.15), Biostrings (>= 2.35.3), rtracklayer
+1475,1478d1039
+< 
+< R (>= 3.2.1)
+< R (>= 2.15.0), graphics, stats, grDevices, rpart, rpart.plot, data.table
+< R (>= 3.0.0)
+1482d1042
+< cluster, MASS
+1490,1493d1049
+< R (>= 3.0.2)
+< NA
+< NA
+< lattice
+1495,1497c1051
+< 
+< R (>= 3.2.0),
+< Rcpp (>= 0.11.2)
+---
+> R (>= 2.14.1)
+1500d1053
+< R (>= 2.14.1)
+1502d1054
+< R (>= 2.15.1), coda (>= 0.13), parallel
+1505d1056
+< NA
+1515,1517d1065
+< R (>= 3.0.0), foreach, rngtools (>= 1.2.4)
+< R (>= 2.5.0), foreach(>= 1.2.0), iterators(>= 1.0.0), snow(>=
+< 0.3.0), utils
+1519d1066
+< NA
+1522,1523d1068
+< plotmo (>= 3.1.5), TeachingDemos (>= 2.10)
+< R (>= 2.0.0),graphics,stats
+1525d1069
+< NA
+1530,1531d1073
+< R (>= 3.0.0)
+< R (>= 2.10.0), splines, Matrix, graphics
+1533d1074
+< R (>= 2.8.0)
+1540d1080
+< stats, splines, foreach
+1542d1081
+< R (>= 2.9.0), survival, lattice, splines, parallel
+1544,1552c1083,1091
+< R (>= 3.1), methods, stats4, BiocGenerics (>= 0.13.8),
+< S4Vectors (>= 0.2.0), IRanges (>= 1.99.26)
+< R (>= 2.10), methods, BiocGenerics (>= 0.11.3), S4Vectors (>=
+< 0.5.14), IRanges (>= 2.1.26), GenomeInfoDb (>= 1.1.20),
+< GenomicRanges (>= 1.19.23), Biostrings (>= 2.35.1), Rsamtools
+< (>= 1.19.39)
+< R (>= 2.10), methods, BiocGenerics (>= 0.11.3), S4Vectors (>=
+< 0.6.6), IRanges (>= 2.2.4), GenomeInfoDb (>= 1.1.20)
+< R (>= 2.10), stats, methods
+---
+> R (>= 3.1), methods, BiocGenerics (>= 0.13.8), S4Vectors (>=
+> 0.9.25), IRanges (>= 1.99.26)
+> R (>= 2.10), methods, BiocGenerics (>= 0.15.3), S4Vectors (>=
+> 0.9.40), IRanges (>= 2.5.36), GenomeInfoDb (>= 1.1.20),
+> GenomicRanges (>= 1.25.6), SummarizedExperiment (>= 0.3.1),
+> Biostrings (>= 2.37.1), Rsamtools (>= 1.21.4)
+> R (>= 2.10), methods, stats4, BiocGenerics (>= 0.17.5),
+> S4Vectors (>= 0.9.47), IRanges (>= 2.7.8), GenomeInfoDb (>=
+> 1.1.20)
+1555c1094
+< R (>= 3.0)
+---
+> R (>= 3.0.0),
+1559c1098
+< R (>= 2.7.0), methods, AnnotationDbi (>= 1.29.20)
+---
+> R (>= 2.7.0), methods, AnnotationDbi (>= 1.35.4)
+1566d1104
+< R (>= 2.10)
+1569d1106
+< R (>= 3.1.0)
+1572c1109,1110
+< lattice, survival (>= 2.37-6), Formula, ggplot2 (>= 2.0)
+---
+> lattice, survival (>= 2.40-1), Formula, ggplot2 (>= 2.0)
+> NA
+1577,1579c1115,1116
+< IRanges, methods, MASS, BSgenome, GenomeInfoDb (>= 1.1.3),
+< GenomicRanges (>= 1.17.11)
+< R (>= 2.15.1), methods
+---
+> S4Vectors, IRanges, methods, MASS, BSgenome, GenomeInfoDb (>=
+> 1.1.3), GenomicRanges (>= 1.17.11)
+1581d1117
+< R (>= 2.6.0)
+1584d1119
+< R (>= 3.1.2)
+1586,1593c1121,1122
+< R (>= 2.9.0)
+< R (>= 2.10)
+< R (>= 3.1.0), methods, utils, stats, BiocGenerics (>= 0.13.6),
+< S4Vectors (>= 0.6.1)
+< 
+< R (>= 3.0.1)
+< 
+< R (>= 3.0.1)
+---
+> R (>= 3.1.0), methods, utils, stats, BiocGenerics (>= 0.19.1),
+> S4Vectors (>= 0.11.19)
+1595d1123
+< R (>= 2.6.0)
+1597d1124
+< R (>= 2.14.0), iterators(>= 1.0.0)
+1599d1125
+< R (>= 2.10)
+1603,1604d1128
+< R (>= 1.4.0), KernSmooth (>= 2.22), misc3d (>= 0.4-0), mvtnorm
+< (>= 1.0-0), rgl (>= 0.66)
+1609d1132
+< R (>= 2.15)
+1611d1133
+< NA
+1613d1134
+< R (>= 2.3.0), methods
+1620,1622d1140
+< R (>= 2.10.0)
+< R (>= 2.14.0), maps (>= 2.0-7)
+< maps (>= 2.3-0)
+1636d1153
+< R (>= 1.9.0), stats, class
+1644d1160
+< NA
+1646,1647d1161
+< R (>= 2.10)
+< R (>= 2.10)
+1648a1163
+> R (>= 2.12.0)
+1650c1165
+< stats, graphics, mvtnorm (>= 1.0-3), survival (>= 2.35-7),
+---
+> stats, graphics, mvtnorm (>= 1.0-3), survival (>= 2.39-4),
+1653c1168
+< R (>= 2.10), methods, Biobase
+---
+> R (>= 2.10), methods, BiocGenerics, Biobase
+1656d1170
+< NA
+1664d1177
+< R (>= 2.10)
+1668,1669d1180
+< R (>= 2.11.1)
+< NA
+1672d1182
+< R (>= 2.10), cluster, survival
+1674,1678c1184,1185
+< R (>= 2.14.0), methods, grid, stats, mvtnorm (>= 1.0-2),
+< modeltools (>= 0.2-21), strucchange
+< R (>= 3.0.0)
+< R (>= 3.0.0), lme4
+< R (>= 3.1.0)
+---
+> R (>= 3.3.0), methods, rlecuyer
+> R (>= 3.2.3), lme4 (>= 1.1.10)
+1684,1686d1190
+< plotrix, TeachingDemos
+< NA
+< R (>= 2.10)
+1688d1191
+< R (>= 2.9.0)
+1690d1192
+< R(>= 3.1.0), methods
+1693,1696d1194
+< R (>= 2.14)
+< R (>= 2.9.0)
+< R (>= 2.6.0)
+< NA
+1698d1195
+< MASS, lattice
+1700d1196
+< R (>= 2.14.0)
+1705,1706d1200
+< R (>= 3.0.2), sp, RandomFieldsUtils (>= 0.2.1)
+< R (>= 3.0)
+1709,1710d1202
+< NA
+< methods, sp (>= 1.2-0), R (>= 3.0.0)
+1717d1208
+< NA
+1720d1210
+< NA
+1722,1723d1211
+< NA
+< R (>= 3.0.1)
+1726,1727d1213
+< R (>= 2.14.0), methods, sp (>= 1.1-0)
+< R (>= 2.15.0)
+1729,1730c1215,1216
+< R (>= 2.15.0)
+< R (>= 2.15), methods, IRanges, GenomicRanges, Rsamtools,
+---
+> R (>= 2.15), methods, S4Vectors (>= 0.9.25), IRanges,
+> GenomicRanges, SummarizedExperiment, Rsamtools,
+1732d1217
+< R (>= 2.5.0), methods
+1737,1738d1221
+< R (>= 2.8.0), DBI (>= 0.4)
+< R (>= 2.5.0)
+1740d1222
+< gplots, methods
+1743d1224
+< rpart (>= 4.1-0)
+1746,1750c1227,1228
+< methods, S4Vectors (>= 0.5.11), IRanges (>= 1.99.17),
+< GenomeInfoDb (>= 1.1.3), GenomicRanges (>= 1.17.19), XVector
+< (>= 0.5.3), Biostrings (>= 2.33.11)
+< R (>= 2.7.0)
+< R (>= 1.5.0)
+---
+> methods, GenomeInfoDb (>= 1.1.3), GenomicRanges (>= 1.21.6),
+> Biostrings (>= 2.37.1)
+1753d1230
+< R (>= 2.10.0)
+1755c1232,1233
+< R (>= 2.10), methods, GenomicRanges (>= 1.19.3)
+---
+> R (>= 3.2.2)
+> R (>= 3.3), methods, GenomicRanges (>= 1.21.20)
+1757,1759c1235,1236
+< R (>= 2.10.0), sp
+< R (>= 3.1.0), methods, utils, stats, stats4, BiocGenerics (>=
+< 0.11.3)
+---
+> R (>= 3.3.0), methods, utils, stats, stats4, BiocGenerics (>=
+> 0.15.10)
+1764,1768d1240
+< R (>= 3.0.0), methods
+< R (>= 3.0)
+< R (>= 3.1.0)
+< BiocGenerics (>= 0.11.3), BiocParallel, Biostrings (>=
+< 2.33.14), Rsamtools (>= 1.17.28), GenomicAlignments (>= 1.1.28)
+1770,1771c1242,1243
+< R (>= 2.8.0)
+< R (>= 2.0.0), utils
+---
+> R (>= 3.3.1)
+> R (>= 2.0.0), utils, statnet.common, network
+1772a1245
+> R (>= 3.0.2)
+1774d1246
+< R (>= 3.0.0)
+1780d1251
+< R (>= 2.10.0), sp (>= 0.9)
+1782,1783d1252
+< R (>= 2.14)
+< R (>= 3.0)
+1791d1259
+< R (>= 2.10.0), zoo, sandwich
+1793,1794c1261
+< NA
+< survival
+---
+> R (>= 3.2), methods, GenomicRanges (>= 1.23.15), Biobase
+1797d1263
+< NA
+1803d1268
+< R (>= 3.1.0), NLP (>= 0.1-6.2)
+1807,1808c1272
+< R (>= 2.15.0)
+< R (>= 2.10.0)
+---
+> permute (>= 0.9-0), lattice, R (>= 3.0.0)
+1810,1813d1273
+< NA
+< R (>= 2.9.0)
+< R (>= 3.1.0)
+< permute (>= 0.8-0), lattice, R (>= 3.0.0)
+1815,1826d1274
+< R (>= 3.0)
+< 
+< shiny,
+< R6,
+< DT,
+< leaflet,
+< sp,
+< gstat,
+< ggplot2,
+< rworldmap,
+< ggvis
+< R (>= 3.0)
+1830,1832d1277
+< methods, RColorBrewer
+< rJava, xlsxjars
+< rJava
+1834d1278
+< R (>= 3.1.0)
+1836,1838c1280,1281
+< zoo (>= 1.7-10)
+< R (>= 2.8.0), methods, BiocGenerics (>= 0.11.3), S4Vectors (>=
+< 0.5.19), IRanges (>= 2.1.38)
+---
+> R (>= 2.8.0), methods, BiocGenerics (>= 0.19.2), S4Vectors (>=
+> 0.9.29), IRanges (>= 2.5.27)
+1842c1285
+< NA
+---
+> methods, utils
+1850c1293
+< S4Vectors
+---
+> S4Vectors (>= 0.9.25), IRanges
+1854,1855d1296
+< assertthat, truncnorm, SQUAREM, doParallel, pscl, Rcpp (>=
+< 0.10.5), foreach, etrunct
+1865c1306
+< futile.logger, parallel, snow
+---
+> stats, utils, futile.logger, parallel, snow
+1867,1868c1308
+< XVector, zlibbioc
+< NA
+---
+> XVector
+1870d1309
+< brglm, gtools, stats
+1873,1875c1312,1315
+< methods, stats, BiocGenerics, S4Vectors, IRanges, XVector,
+< GenomeInfoDb, GenomicRanges, Biostrings, Rsamtools, rtracklayer
+< MASS, mgcv, nnet, pbkrtest (>= 0.3-2), quantreg, grDevices,
+---
+> methods, utils, stats, BiocGenerics, S4Vectors, IRanges,
+> XVector, GenomeInfoDb, GenomicRanges, Biostrings, Rsamtools,
+> rtracklayer
+> MASS, mgcv, nnet, pbkrtest (>= 0.4-4), quantreg, grDevices,
+1878,1880d1317
+< NA
+< NA
+< rematch, tibble
+1884d1320
+< ade4, e1071, rgl, R2HTML
+1888c1324
+< graphics
+---
+> graphics, grDevices
+1891,1895c1327
+< AlgDesign, clusterSim
+< stats
+< memoise, grDevices, methods, utils
+< utils, yaml
+< reshape2
+---
+> grDevices, methods, utils
+1897,1902c1329
+< 
+< Biostrings (>= 2.32.1),
+< ggplot2 (>= 1.0),
+< data.table (>= 1.9.4),
+< reshape2 (>= 1.4.1),
+< ShortRead (>= 1.24.0)
+---
+> methods, chron
+1905d1331
+< methods, chron
+1907d1332
+< stats
+1912,1913d1336
+< htmlwidgets (>= 0.5), rstudioapi (>= 0.3.1), stringr (>=
+< 1.0.0), visNetwork (>= 0.1.2), scales (>= 0.3.0)
+1922,1926c1345,1346
+< stats, iterators, pkgmaker (>= 0.20)
+< NA
+< assertthat, utils, R6, Rcpp, magrittr, lazyeval (>= 0.1.10),
+< DBI (>= 0.3)
+< htmltools (>= 0.3.5), htmlwidgets (>= 0.6), magrittr
+---
+> assertthat, utils, R6, Rcpp (>= 0.12.3), tibble, magrittr,
+> lazyeval (>= 0.1.10), DBI (>= 0.4.1)
+1930,1932d1349
+< NA
+< NA
+< NA
+1938,1940d1354
+< NA
+< NA
+< NA
+1945,1947c1359
+< lambda.r (>= 1.1.0), futile.options
+< NA
+< NA
+---
+> utils, lambda.r (>= 1.1.0), futile.options
+1951,1952c1363,1364
+< methods, BiocGenerics, S4Vectors
+< methods, stats, BiocGenerics, S4Vectors, IRanges,
+---
+> stats, stats4, utils,
+> methods, utils, stats, BiocGenerics, S4Vectors, IRanges,
+1955d1366
+< MASS, sp, splancs, RandomFields, graphics
+1959,1960c1370,1371
+< assertthat, jsonlite (>= 0.9.11), shiny (>= 0.11.1), magrittr,
+< dplyr (>= 0.4.0), lazyeval, htmltools (>= 0.2.4), methods
+---
+> assertthat, colorspace, ggplot2 (>= 2.2.0), graphics, grid,
+> methods, scales
+1968c1379
+< grDevices
+---
+> grDevices, utils
+1971,1972d1381
+< utils, stats, graphics, methods, lattice, sp (>= 0.9-72), zoo,
+< spacetime (>= 1.0-0), FNN
+1975d1383
+< Rcpp (>= 0.11.4), readr (>= 0.1.0), hms, tibble
+1979c1387,1388
+< gtable, grid, gridExtra, data.table
+---
+> gtable, grid, gridExtra, data.table, htmlTable, viridis,
+> htmltools
+1980a1390
+> stringr, knitr (>= 1.6), magrittr (>= 1.5), methods
+1984d1393
+< Rcpp (>= 0.11.0), utils
+1986d1394
+< NA
+1989d1396
+< igraph (>= 0.7.1), Matrix (>= 1.1-4),
+1991,1992d1397
+< utils, graphics, methods
+< rpart (>= 3.1-8), MASS, survival, nnet, class, prodlim
+1994,2006c1399
+< 
+< repr
+< 
+< repr (>= 0.4.99),
+< methods,
+< evaluate (>= 0.5.4),
+< IRdisplay (>= 0.3.0.9999),
+< pbdZMQ (>= 0.2-1),
+< jsonlite (>= 0.9.6),
+< uuid,
+< digest
+< stats
+< NA
+---
+> stats, methods
+2008d1400
+< parallel
+2010d1401
+< methods, stats, grDevices, graphics
+2014,2015c1405
+< yaml, methods, tools
+< grDevices, graphics, multicool, stats, utils
+---
+> yaml (>= 2.1.5), methods, tools
+2020d1409
+< numDeriv, methods, graphics, grDevices, utils, survival, stats
+2022,2024d1410
+< base64enc, grDevices, htmlwidgets, htmltools, magrittr,
+< markdown, methods, png, RColorBrewer, raster, scales (>=
+< 0.2.5), sp, stats, utils
+2026d1411
+< NA
+2035,2037d1419
+< NA
+< NA
+< stats, graphics
+2047c1429
+< methods
+---
+> NA
+2052d1433
+< NA
+2054c1435
+< utils
+---
+> utils, stats
+2058d1438
+< shiny (>= 0.13), htmltools (>= 0.3), utils
+2062,2063d1441
+< NA
+< stats, utils, ROCR
+2064a1443
+> NA
+2071d1449
+< NA
+2078d1455
+< utils
+2084,2085d1460
+< NA
+< methods, Rcpp (>= 0.11.1), grDevices, stats, utils
+2087d1461
+< NA
+2089,2093c1463,1464
+< survival (>= 2.37-7), coin (>= 1.1-0), zoo, sandwich (>=
+< 1.1-1)
+< R6
+< Matrix, parallel, MASS
+< ggplot2, plotly
+---
+> NA
+> Matrix (>= 1.2.3), parallel, MASS, methods
+2101,2103d1471
+< NA
+< grDevices, graphics, stats, utils
+< grDevices, graphics, methods, stats
+2105d1472
+< NA
+2107,2108d1473
+< stats, graphics, digest, mvtnorm, deSolve, coda, subplex,
+< nloptr
+2111,2114d1475
+< plyr, utils, methods, Rcpp (>= 0.11.1)
+< Rcpp (>= 0.11.5), stats, graphics, survival, KernSmooth, lava
+< NA
+< NA
+2116d1476
+< NA
+2118d1477
+< parallel, graphics, stats, utils, grDevices
+2119a1479
+> stats, graphics, utils, grDevices, methods
+2123,2125d1482
+< graphics, methods, grDevices, stats, utils
+< utils
+< NA
+2128,2129d1484
+< Rcpp
+< NA
+2135d1489
+< xml2 (>= 1.0.0), cellranger, readr
+2138d1491
+< Rcpp (>= 0.11.5)
+2140,2141d1492
+< NA
+< utils, grDevices
+2144,2145d1494
+< grDevices, graphics, stats, utils
+< graphics, grDevices, stats, utils
+2147,2150d1495
+< tools, stats, utils, urltools, foreign, haven (> 0.2.1),
+< openxlsx, readODS, jsonlite, xml2 (>= 1.0.0), curl (>= 0.6),
+< data.table (>= 1.9.5), readxl, readr, yaml, csvy
+< NA
+2157,2159c1502
+< NA
+< methods
+< NA
+---
+> parallel
+2161d1503
+< NA
+2166d1507
+< NA
+2168,2170c1509,1510
+< utils, BiocGenerics (>= 0.1.3), zlibbioc, bitops
+< NA
+< NA
+---
+> utils, BiocGenerics (>= 0.1.3), S4Vectors (>= 0.7.11), IRanges
+> (>= 2.3.7), XVector (>= 0.9.1), zlibbioc, bitops, BiocParallel
+2174c1514
+< utils
+---
+> NA
+2177,2179c1517,1519
+< 0.5.11), IRanges (>= 2.1.41), XVector (>= 0.5.8), GenomeInfoDb
+< (>= 1.3.14), Biostrings (>= 2.33.14), zlibbioc, RCurl (>=
+< 1.4-2), Rsamtools (>= 1.17.8), GenomicAlignments (>= 1.3.23),
+---
+> 0.9.33), IRanges (>= 2.3.7), XVector (>= 0.9.4), GenomeInfoDb
+> (>= 1.3.14), Biostrings (>= 2.37.1), zlibbioc, RCurl (>=
+> 1.4-2), Rsamtools (>= 1.17.8), GenomicAlignments (>= 1.5.4),
+2183d1522
+< methods, utils, stats, stats4, BiocGenerics
+2189,2196d1527
+< utils, httpuv (>= 1.3.3), mime (>= 0.3), jsonlite (>= 0.9.16),
+< xtable, digest, htmltools (>= 0.3), R6 (>= 2.0)
+< utils, shiny (>= 0.11.1), htmltools (>= 0.2.6)
+< digest (>= 0.6.8), htmltools (>= 0.2.6), miniUI (>= 0.1.1),
+< shiny (>= 0.11.1), stats
+< Biobase, S4Vectors (>= 0.5.11), IRanges (>= 1.99.27),
+< GenomeInfoDb (>= 1.1.19), GenomicRanges (>= 1.17.39), hwriter,
+< methods, zlibbioc, lattice, latticeExtra,
+2200a1532
+> NA
+2202,2203d1533
+< graphics, utils, stats, methods, lattice, sp (>= 1.1-0), zoo
+< (>= 1.7-9), xts (>= 0.8-8), intervals
+2209d1538
+< stats, graphics, grDevices, methods
+2211,2212d1539
+< MASS, nnet, parallel, pls
+< NA
+2216c1543
+< NA
+---
+> utils, grDevices, graphics
+2220,2222d1546
+< graphics, stats
+< NA
+< MASS, ISwR, corpcor
+2223a1548,1549
+> utils, stats, Matrix, BiocGenerics (>= 0.15.3), S4Vectors (>=
+> 0.11.7), IRanges (>= 2.7.2), GenomeInfoDb
+2226d1551
+< NA
+2232,2236d1556
+< parallel, slam (>= 0.1-31), stats, tools, utils, graphics
+< NA
+< NA
+< Rcpp
+< NA
+2238d1557
+< Rcpp, methods, triebeard
+2241d1559
+< methods, stats, graphics, lattice, latticeExtra
+2242a1561
+> stats, grDevices, ggplot2 (>= 1.0.1), gridExtra
+2244,2246d1562
+< htmlwidgets, htmltools, jsonlite, magrittr, utils, methods
+< NA
+< magrittr, jsonlite
+2252,2253d1567
+< slam, Rcpp (>= 0.9.4)
+< NA
+2255,2256d1568
+< NA
+< Rcpp
+2258,2259c1570
+< NA
+< methods, BiocGenerics, S4Vectors, IRanges
+---
+> methods, zlibbioc, BiocGenerics, S4Vectors, IRanges
+2272,2285d1582
+< Rcpp
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< S4Vectors (>= 0.5.21), IRanges, XVector
+< NA
+< NA
+2295a1593
+> S4Vectors, IRanges, XVector
+2311d1608
+< Rcpp
+2327,2328d1623
+< NA
+< NA
+2347,2355d1641
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+2375,2378d1660
+< Rcpp, BH
+< NA
+< NA
+< NA
+2380d1661
+< Rcpp
+2390,2391d1670
+< NA
+< NA
+2393,2402c1672
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+---
+> Matrix
+2438,2442d1707
+< NA
+< NA
+< NA
+< NA
+< NA
+2450d1714
+< NA
+2457d1720
+< NA
+2467,2476d1729
+< Rcpp
+< NA
+< NA
+< NA
+< mvtnorm
+< NA
+< NA
+< NA
+< NA
+< NA
+2483,2486d1735
+< Rcpp
+< NA
+< NA
+< NA
+2488,2489d1736
+< NA
+< Rcpp
+2501,2505d1747
+< RandomFieldsUtils
+< NA
+< NA
+< Rcpp
+< NA
+2513d1754
+< NA
+2516,2518d1756
+< Rcpp
+< NA
+< NA
+2522,2523d1759
+< sp
+< NA
+2531,2535d1766
+< NA
+< NA
+< NA
+< NA
+< NA
+2540d1770
+< NA
+2543,2544d1772
+< NA
+< NA
+2553d1780
+< NA
+2560,2566d1786
+< S4Vectors, IRanges, XVector, Biostrings
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+2590,2597d1809
+< NA
+< NA
+< NA
+< Rcpp
+< Rcpp
+< NA
+< NA
+< NA
+2599,2600d1810
+< NA
+< NA
+2613,2619d1822
+< Rcpp
+< NA
+< NA
+< NA
+< Rcpp (>= 0.11.4.6), BH
+< NA
+< NA
+2625c1828
+< NA
+---
+> testthat
+2635,2636c1838,1839
+< reactome.db, AnnotationForge, graph,
+< org.TguttataTestingSubset.eg.db, BiocStyle, knitr
+---
+> reactome.db, AnnotationForge, graph, EnsDb.Hsapiens.v75,
+> BiocStyle, knitr
+2639d1841
+< testthat, roxygen2, covr
+2642c1844
+< NA
+---
+> methods
+2662d1863
+< prefmod
+2664d1864
+< MASS
+2673,2674c1873,1874
+< alr4, boot, leaps, lme4, lmtest, Matrix, MatrixModels, nlme,
+< rgl (>= 0.93.960), sandwich, SparseM, survival, survey
+---
+> alr4, boot, coxme, leaps, lme4, lmtest, Matrix, MatrixModels,
+> nlme, rgl (>= 0.93.960), sandwich, SparseM, survival, survey
+2676,2678d1875
+< NA
+< survival
+< covr, testthat (>= 1.0.0), knitr, rmarkdown
+2682d1878
+< mlbench
+2686,2687c1882,1883
+< KernSmooth, MASS, kernlab, mvtnorm, vcd, dichromat, tcltk
+< NA
+---
+> datasets, stats, utils, KernSmooth, MASS, kernlab, mvtnorm,
+> vcd, dichromat, tcltk, shiny, shinyjs
+2690d1885
+< 
+2692,2702c1887
+< data.table, readr, testthat, datasets
+< mlbench, caret
+< testthat, knitr, jsonlite, rmarkdown, magrittr
+< 
+< testthat (>= 0.9.1),
+< microbenchmark (>= 1.4.2),
+< BiocStyle,
+< knitr,
+< rmarkdown
+< devtools, testthat
+< NA
+---
+> testthat (>= 1.0.0), knitr, jsonlite, rmarkdown, magrittr
+2706,2708c1891,1893
+< testthat, RSQLite, knitr, covr
+< MASS, lattice, rjags (>= 3-5), R2WinBUGS, R2OpenBUGS, BRugs,
+< snow, rlecuyer
+---
+> devtools, testthat
+> NA
+> testthat, RSQLite, knitr, rmarkdown, covr
+2714d1898
+< knitr, testthat
+2722,2729c1906,1908
+< doParallel, doMPI, doRedis, rbenchmark, RUnit, devtools,
+< knitr, bibtex
+< compiler, RUnit, caret, mlbench, rpart
+< RSQLite (>= 1.0.0), RMySQL, RPostgreSQL, data.table,
+< testthat, knitr, microbenchmark, ggplot2, mgcv, Lahman (>=
+< 3.0-1), nycflights13, methods
+< jsonlite (>= 0.9.16), knitr (>= 1.8), rmarkdown, shiny (>=
+< 0.12.1)
+---
+> RSQLite (>= 1.0.0), RMySQL, RPostgreSQL, testthat, knitr,
+> microbenchmark, ggplot2, mgcv, Lahman (>= 3.0-1), nycflights13,
+> methods, rmarkdown, covr, dtplyr
+2733,2735d1911
+< gam (>= 1.12), mgcv (>= 1.8-14), mda (>= 0.4-9), MASS (>=
+< 7.3-45)
+< MASS
+2737d1912
+< testthat
+2742,2743d1916
+< MASS
+< deSolve, R.matlab, quadprog, nlme, lattice, RCurl, zoo
+2745d1917
+< chemometrics, mvtnorm
+2752d1923
+< akima
+2755d1925
+< RUnit
+2765,2766c1935,1940
+< DESeq, edgeR, RUnit, BiocStyle
+< AnnotationDbi (>= 1.21.1), AnnotationHub, BSgenome,
+---
+> DESeq2, edgeR, RUnit, BiocStyle
+> Biobase, AnnotationDbi (>= 1.21.1), annotate, Biostrings (>=
+> 2.25.3), Rsamtools (>= 1.13.53), SummarizedExperiment (>=
+> 0.1.5), Matrix, GenomicAlignments, rtracklayer, BSgenome,
+> GenomicFeatures, Gviz, VariantAnnotation, AnnotationHub,
+> DESeq2, DEXSeq, edgeR, KEGGgraph, BiocStyle, digest, RUnit,
+2768,2770c1942,1944
+< Biobase, BiocStyle, Biostrings (>= 2.25.3), DESeq, DEXSeq,
+< GenomicAlignments, GenomicFeatures, KEGG.db, KEGGgraph, RUnit,
+< Rsamtools (>= 1.13.53), TxDb.Athaliana.BioMart.plantsmart22,
+---
+> KEGG.db, hgu95av2.db, org.Hs.eg.db, org.Mm.eg.db,
+> org.Sc.sgd.db, pasilla, pasillaBamSubset,
+> TxDb.Athaliana.BioMart.plantsmart22,
+2772,2775c1946,1949
+< TxDb.Hsapiens.UCSC.hg19.knownGene, VariantAnnotation, annotate,
+< digest, edgeR, hgu95av2.db, org.Hs.eg.db, org.Mm.eg.db,
+< org.Sc.sgd.db, pasilla, pasillaBamSubset, rtracklayer
+< scatterplot3d, lattice, tcltk, geoRglm
+---
+> TxDb.Hsapiens.UCSC.hg19.knownGene,
+> BSgenome.Mmusculus.UCSC.mm10,
+> TxDb.Mmusculus.UCSC.mm10.knownGene,
+> RNAseqData.HNRNPC.bam.chr14, hgu95av2probe
+2780,2782c1954,1956
+< MASS, mgcv, lubridate, testthat (>= 0.8.1), knitr (>= 1.6),
+< rmarkdown
+< NA
+---
+> extrafont, knitr, lintr, maps, mapproj, pander, plyr,
+> reshape2, rmarkdown, testthat
+> getPass
+2785c1959
+< NA
+---
+> DBI
+2788c1962
+< NA
+---
+> KernSmooth
+2792d1965
+< rgdal (>= 0.5.2), rgeos, fields, maps, mapdata, maptools, xts
+2795d1967
+< testthat, knitr, rmarkdown, covr
+2798c1970,1971
+< chron, rms, mice, tables, knitr, ff, ffbase, htmltools
+---
+> chron, rms, mice, tables, knitr, ff, ffbase, plotly (>=
+> 4.5.2)
+2799a1973,1974
+> testthat, XML, xtable, ztable, Hmisc, reshape, rmarkdown,
+> pander
+2803,2805c1978,1979
+< NA
+< httpuv, jpeg, knitr, png, testthat (>= 0.8.0), readr, xml2
+< NA
+---
+> httpuv, jpeg, knitr, png, testthat (>= 0.8.0), readr, xml2,
+> rmarkdown
+2808d1981
+< testthat, ergm
+2809a1983,1984
+> XVector, GenomicRanges, GenomicFeatures, GenomicAlignments,
+> BSgenome.Celegans.UCSC.ce2, RUnit
+2811,2820d1985
+< mvtnorm, mlbench, TH.data
+< XVector, GenomicRanges, BSgenome.Celegans.UCSC.ce2, RUnit
+< 
+< testthat,
+< withr
+< 
+< testthat,
+< roxygen2
+< NA
+< survival,MASS
+2822d1986
+< foreach
+2824d1987
+< NA
+2830d1992
+< MASS
+2835,2838d1996
+< mets (>= 1.1), optimx, data.table, Rgraphviz, graph, igraph
+< (>= 0.6), visNetwork, Matrix, KernSmooth, lme4, geepack, gof
+< (>= 0.9), foreach, quantreg, rgl, fields, testthat (>= 0.11),
+< ascii, zoo
+2840d1997
+< knitr, maps, shiny, testit (>= 0.4), rgdal, R6, RJSONIO
+2842,2844d1998
+< affy, AnnotationDbi, BiasedUrn, Biobase, ellipse, GO.db,
+< illuminaio, KEGGREST, locfit, MASS, org.Hs.eg.db, splines,
+< statmod (>= 1.2.2), vsn
+2847c2001
+< pbkrtest
+---
+> pbkrtest, nlme, estimability
+2852c2006,2007
+< lme4.0, lme4, MASS, MCMCglmm, nnet, pscl, survival
+---
+> lme4.0, lme4, lmerTest (>= 2.0.32), MASS, MCMCglmm, nnet, pscl,
+> rsm, survival
+2854,2856d2008
+< graphics, grid, lattice, ggplot2
+< NA
+< NA
+2871d2022
+< earth
+2873c2024
+< NA
+---
+> codetools
+2879d2029
+< NA
+2882,2883d2031
+< lattice
+< e1071
+2884a2033
+> stats, evd, fBasics, stabledist, VGAM
+2892d2040
+< NA
+2900d2047
+< NA
+2905,2907c2052
+< NA
+< testthat, digest, knitr, rmarkdown, jsonlite
+< knitr, testthat
+---
+> testthat, digest, knitr, rmarkdown, jsonlite, jose
+2909,2911c2054
+< NA
+< NA
+< TH.data (>= 1.0-3), mlbench, colorspace, MASS, vcd, ipred
+---
+> methods
+2914d2056
+< stats, rsvd, maps, magrittr, testthat
+2923,2927d2064
+< earth (>= 4.4.6), gbm (>= 2.1.1), glmnet (>= 2.0.5), MASS (>=
+< 7.3-45), neuralnet (>= 1.33), rpart (>= 4.1-10), rpart.plot (>=
+< 2.0.1)
+< NA
+< MASS, parallel, Rmpi
+2929c2066
+< iterators
+---
+> iterators, covr
+2931,2932d2067
+< NA
+< magrittr, plyr, reshape2, ggplot2, knitr
+2935,2938d2069
+< microbenchmark, tcltk, MASS, logcondens, doParallel
+< NA
+< MASS, gnm
+< graph, Rgraphviz
+2940,2941d2070
+< MCMCpack, car, lmtest, sandwich, zoo, coda, vcd, mvtnorm,
+< mgcv
+2943d2071
+< testthat
+2946,2947c2074
+< boot, splines, survival, stats, cluster, nlme, rpart, nnet,
+< utils
+---
+> boot, splines, survival, cluster, nlme, rpart, nnet
+2950,2953d2076
+< colorspace, RColorBrewer, mvtnorm, raster, tcltk2, tcltk,
+< tkrplot, spam, tools, geoR, minqa, soma, optimx, nloptr, pso,
+< GenSA
+< NA
+2957,2959d2079
+< rgdal (>= 0.9-1), rgeos (>= 0.3-8), ncdf4, igraph, tcltk,
+< parallel, rasterVis
+< testthat
+2965d2084
+< dplyr, testthat, datasets
+2968d2086
+< testthat
+2970,2971d2087
+< covr, testthat
+< methods, highr, Cairo, testthat
+2975,2977d2090
+< MASS, rglwidget (>= 0.1.1427), knitr, rmarkdown
+< NA
+< datasets, bit64, testthat, knitr, magrittr, feather
+2980d2092
+< NA
+2983,2984d2094
+< parallel
+< testthat
+2987d2096
+< NA
+2990d2098
+< earth
+2997,2998d2104
+< NA
+< RSclient
+3002d2107
+< NA
+3003a2109,2116
+> 
+> ggplot2,
+> plyr,
+> scales,
+> grid,
+> testthat,
+> knitr,
+> rmarkdown
+3008,3009c2121,2122
+< rworldmap
+< IRanges, RUnit
+---
+> IRanges, GenomicRanges, Matrix, ShortRead, graph, data.table,
+> RUnit
+3014,3015d2126
+< datasets, Cairo (>= 1.5-5), testthat, knitr (>= 1.6),
+< markdown, rmarkdown, ggplot2
+3017,3019d2127
+< knitr (>= 1.7), rmarkdown, rstudioapi (>= 0.5), testthat (>=
+< 0.9.1), V8 (>= 0.6)
+< BiocStyle, RUnit, biomaRt, GenomicFeatures, yeastNagalakshmi
+3021,3022c2129
+< NA
+< network, rgl, numDeriv, SparseM
+---
+> rgl, numDeriv, SparseM
+3023a2131
+> testthat
+3026,3028d2133
+< adehabitatLT, cshapes, diveMove, foreign, gstat (>= 1.0-16),
+< maps, mapdata, maptools, plm, raster, RColorBrewer, rgdal,
+< rgeos, RPostgreSQL, knitr, googleVis, ISOcodes
+3034,3037c2139
+< NA
+< NA
+< NA
+< setRNG
+---
+> Matrix, methods
+3040a2143
+> MASS, Matrix, SuppDists, methods, stats4
+3042a2146
+> testthat, knitr, htmltools, htmlwidgets, rmarkdown, covr
+3044,3048c2148,2150
+< testthat, knitr
+< stats4, car, dynlm, e1071, foreach, lmtest, mvtnorm, tseries
+< NA
+< NA
+< NA
+---
+> annotate, AnnotationDbi, hgu95av2.db, GenomicFeatures,
+> TxDb.Hsapiens.UCSC.hg19.knownGene, BiocStyle, knitr, rmarkdown,
+> digest, jsonlite, rhdf5, airway, RUnit
+3051,3052d2152
+< tkrplot, lattice, MASS, rgl, tcltk, tcltk2, png, ggplot2,
+< logspline, maptools, R2wd, manipulate
+3056,3057c2156,2157
+< testthat, withr, knitr (>= 1.5.32), rmarkdown, Lahman (>=
+< 3.0.1), microbenchmark
+---
+> testthat, withr, knitr (>= 1.5.32), rmarkdown, nycflights13,
+> microbenchmark
+3059,3061c2159
+< filehash, methods, Rcampdf, Rgraphviz, Rpoppler, SnowballC,
+< tm.lexicon.GeneralInquirer, XML
+< XML
+---
+> codetools, methods, xml2
+3063,3069c2161
+< knitr, rmarkdown, testthat
+< NA
+< NA
+< testthat, knitr
+< NA
+< NA
+< glmnet, qtl
+---
+> methods, XML
+3070a2163,2164
+> hexbin (>= 1.27.0), scales, MASS, knitr, dichromat,
+> colorspace, rasterVis, httr, mapproj
+3072,3074d2165
+< knitr, igraph
+< NA
+< httpuv, knitr, rmarkdown, shiny
+3078,3080d2168
+< tm (>= 0.6)
+< NA
+< NA
+3082d2169
+< testthat, curl, covr, knitr, rmarkdown, magrittr, httr
+3084d2170
+< timeSeries,timeDate,tseries,its,chron,fts,tis
+3099d2184
+< REBayes, Rmosek
+3113,3117d2197
+< gnm
+< NA
+< NA
+< NA
+< NA
+3145,3152d2224
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+3161,3166d2232
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+3169,3171d2234
+< NA
+< NA
+< NA
+3184,3186d2246
+< NA
+< NA
+< NA
+3206d2265
+< NA
+3223,3233d2281
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+3245,3250d2292
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+3289,3296d2330
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+3297a2332
+> pbdPROF, pbdZMQ
+3316,3333d2350
+< NA
+< NA
+< NA
+< NA
+< NA
+< stats
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+3346,3364d2362
+< data.table, dplyr, htmlwidgets
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+3430,3449d2427
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+3459d2436
+< GPL (>= 3)
+3462c2439
+< Part of R 3.2.1
+---
+> Part of R 3.3.2
+3473d2449
+< GPL (>= 2)
+3475d2450
+< GPL (>= 2)
+3479,3481d2453
+< What license is it under?
+< GPL-2 | GPL-3
+< MIT + file LICENSE
+3486d2457
+< GPL (>= 2)
+3491,3493c2462
+< Part of R 3.2.1
+< GPL (>= 2)
+< GPL (>= 3)
+---
+> Part of R 3.3.2
+3495,3496d2463
+< GPL-2
+< GPL-3
+3498,3500d2464
+< LGPL-3
+< GPL (>= 3)
+< Part of R 3.2.1
+3501a2466,2467
+> GPL (>= 3)
+> Part of R 3.3.2
+3503d2468
+< GPL-2
+3506d2470
+< MIT + file LICENSE
+3514,3515d2477
+< GPL (>= 2)
+< GPL-2
+3517,3520d2478
+< GPL-3 | file LICENSE
+< GPL (>= 2)
+< GPL-2
+< GPL-3
+3523c2481
+< MIT + file LICENSE
+---
+> GPL (>= 3)
+3528d2485
+< GPL-2 | GPL-3
+3530,3531d2486
+< GPL (>= 2)
+< GPL (>= 2.1)
+3538d2492
+< GPL-2
+3540d2493
+< GPL (>= 2) | file LICENSE
+3546,3547d2498
+< GPL (>= 2)
+< GPL-2 | file LICENSE
+3550a2502
+> GPL-2
+3554,3556c2506,2508
+< Part of R 3.2.1
+< Part of R 3.2.1
+< Part of R 3.2.1
+---
+> Part of R 3.3.2
+> Part of R 3.3.2
+> Part of R 3.3.2
+3559d2510
+< GPL (>= 2.0)
+3562d2512
+< MIT + file LICENSE
+3566a2517
+> GPL (>= 3)
+3570d2520
+< GPL-3 | file LICENSE
+3572d2521
+< LGPL-2.1
+3575d2523
+< somelicense
+3578,3583c2526
+< GPL (>= 2)
+< Artistic-2.0
+< MIT + file LICENSE
+< MIT + file LICENSE
+< GPL
+< GPL (>= 2)
+---
+> GPL-3
+3585d2527
+< GPL-2
+3587d2528
+< GPL-2
+3591d2531
+< GPL-2 | GPL-3
+3597,3598d2536
+< GPL-3
+< GPL-3 | file LICENSE
+3600d2537
+< GPL (>=2)
+3605,4242c2542,2679
+< GPL-2
+< MIT + file LICENSE
+< 
+< GPL-2
+< Lucent Public License
+< GPL-2
+< GPL (>= 2)
+< GPL-2
+< GPL-2 | GPL-3
+< Artistic-2.0
+< GPL (>= 2) | file LICENCE
+< GPL (>= 2)
+< GPL (>= 2)
+< Artistic-2.0
+< GPL (>= 2)
+< GPL (>= 2)
+< MIT + file LICENSE
+< GPL-3
+< GPL-2
+< MIT + file LICENSE
+< Part of R 3.2.1
+< GPL (>= 2)
+< GPL (>= 2)
+< GPL-2
+< GPL-3
+< GPL-2
+< GPL
+< GPL (>= 2)
+< GPL-2
+< GPL-2
+< GPL (>= 2)
+< GPL-2
+< GPL-2
+< GPL-2
+< LGPL
+< MIT + file LICENSE
+< GPL-2
+< GPL (>= 2)
+< GPL-3 + file LICENSE
+< GPL (>= 2)
+< GPL-3
+< GPL (>= 2)
+< GPL (>= 2) | file LICENCE
+< LGPL-3
+< GPL-3
+< GPL (>= 2)
+< GPL-2 | GPL-3
+< GPL-2
+< MIT + file LICENSE
+< GPL-3
+< GPL (>= 2)
+< GPL-2
+< Part of R 3.2.1
+< GPL-2
+< GPL-3
+< GPL (>= 2)
+< GPL (>= 3)
+< GPL (>= 2)
+< GPL-2
+< GPL (>= 3)
+< GPL (>= 2)
+< MIT + file LICENSE
+< GPL-3
+< GPL (>= 2)
+< GPL-2
+< MIT + file LICENSE
+< GPL-2 | GPL-3
+< GPL-2
+< GPL (>= 2)
+< MIT + file LICENSE
+< LGPL (>= 2)
+< GPL (>= 3)
+< GPL (>= 2)
+< GPL (>= 2)
+< GPL-2
+< GPL-2
+< GPL-2
+< GPL-3 | file LICENSE
+< GPL-3
+< GPL (>= 2)
+< GPL (>= 2)
+< MIT + file LICENSE
+< GPL-2
+< GPL (>= 3)
+< GPL (>= 3)
+< GPL (>= 2)
+< GPL-3
+< GPL (>= 3)
+< GPL (>= 3)
+< MPL (>= 2) | GPL (>= 2) | file LICENSE
+< Apache License 2.0
+< GPL (>= 2)
+< GPL (>= 2)
+< GPL (>= 2) | file LICENSE
+< BSD
+< GPL-3
+< GPL (>= 2) | file LICENSE
+< GPL-2 | file LICENSE
+< GPL-3 + file LICENSE
+< GPL-2
+< MIT + file LICENSE
+< GPL-3
+< MIT + file LICENSE
+< MIT + file LICENSE
+< GPL (>= 2)
+< GPL
+< GPL (>= 2)
+< GPL-2
+< GPL-2
+< GPL-2
+< GPL (>= 2)
+< GPL-3
+< GPL (>= 2)
+< GPL (>= 2)
+< GPL-2
+< GPL (>= 2) | file LICENSE
+< GPL-3
+< GPL (>= 2)
+< GPL (>= 2)
+< GPL-2 | GPL-3
+< GPL-3
+< GPL-2 | file LICENSE
+< GPL-3
+< Artistic-2.0 | file LICENSE
+< GPL-2 | file LICENSE
+< GPL-2 | file LICENSE
+< LGPL (>= 2)
+< GPL (>= 3)
+< 
+< MIT + file LICENSE
+< Artistic-2.0
+< GPL (>= 2)
+< GPL (>= 2)
+< Artistic-2.0
+< GPL-2 | GPL-3
+< MIT + file LICENSE
+< GPL (>= 2)
+< GPL (>= 3)
+< GPL-3 | file LICENSE
+< GPL-2 | file LICENSE
+< MIT + file LICENSE
+< Artistic-2.0
+< GPL (>= 2)
+< GPL-2
+< GPL (>= 2)
+< GPL
+< GPL (>= 2)
+< GPL (>= 2)
+< LGPL-2
+< GPL (>= 2)
+< GPL-2
+< GPL-2 | GPL-3
+< GPL (>= 2)
+< GPL (>= 2)
+< Part of R 3.2.1
+< GPL (>= 2)
+< GPL (>= 2)
+< BSD_3_clause + file LICENSE
+< GPL-2 | GPL-3
+< GPL-3 + file LICENSE
+< Part of R 3.2.1
+< Part of R 3.2.1
+< file LICENSE
+< GPL-2
+< GPL-2 | GPL-3
+< GPL (>= 2)
+< GPL (>= 2)
+< GPL-2
+< LGPL (>= 2)
+< Part of R 3.2.1
+< Artistic-2.0
+< MIT + file LICENSE
+< GPL-3
+< GPL-3
+< MIT + file LICENSE
+< MIT + file LICENSE
+< GPL-3
+< Part of R 3.2.1
+< GPL-2 | GPL-3
+< MIT + file LICENSE
+< GPL-2
+< GPL-2
+< MIT + file LICENSE
+< Part of R 3.2.1
+< MIT + file LICENSE
+< GPL (>= 3)
+< GPL-2
+< MIT + file LICENSE
+< MIT + file LICENSE
+< What license is it under?
+< GPL-2
+< GPL (>= 2)
+< GPL-3
+< GPL (>= 2)
+< LGPL-2.1
+< GPL-3
+< GPL-3
+< BSD_2_clause + file LICENSE
+< GPL (>= 2)
+< GPL (>= 2)
+< GPL (>= 2)
+< Artistic-2.0
+< BSD_3_clause + file LICENSE
+< Artistic-2.0 + file LICENSE
+< GPL-2 | GPL-3
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< yes
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+< NA
+---
+> GPL-2 | GPL-3
+> MIT + file LICENSE
+> GPL-2
+> GPL (>= 2)
+> GPL-2
+> GPL-2 | GPL-3
+> Artistic-2.0
+> GPL (>= 2) | file LICENCE
+> GPL (>= 2)
+> GPL (>= 2)
+> Artistic-2.0
+> GPL (>= 2)
+> GPL (>= 2)
+> MIT + file LICENSE
+> GPL-3
+> MIT + file LICENSE
+> Part of R 3.3.2
+> GPL (>= 2)
+> GPL (>= 2)
+> GPL
+> GPL-2
+> GPL
+> GPL (>= 2)
+> GPL (>= 2)
+> GPL (>= 2)
+> GPL-2
+> GPL-2
+> GPL-2
+> LGPL
+> MIT + file LICENSE
+> GPL-2
+> GPL-3 + file LICENSE
+> GPL (>= 2)
+> GPL-3
+> GPL (>= 2)
+> GPL (>= 2) | file LICENCE
+> LGPL-3
+> GPL (>= 2)
+> GPL-2 | GPL-3
+> MIT + file LICENSE
+> GPL (>= 2)
+> Part of R 3.3.2
+> Mozilla Public License 2.0
+> GPL (>= 2)
+> GPL (>= 2)
+> GPL-2
+> GPL (>= 3)
+> GPL (>= 2)
+> MIT + file LICENSE
+> MIT + file LICENSE
+> GPL-2
+> MIT + file LICENSE
+> LGPL (>= 2)
+> GPL-2
+> GPL-3 | file LICENSE
+> GPL (>= 2)
+> GPL (>= 2)
+> MIT + file LICENSE
+> GPL-2
+> GPL (>= 2)
+> GPL-3
+> MPL (>= 2) | GPL (>= 2) | file LICENSE
+> Apache License 2.0
+> GPL (>= 2)
+> GPL (>= 2)
+> GPL (>= 2) | file LICENSE
+> BSD
+> GPL (>= 2) | file LICENSE
+> GPL-2 | file LICENSE
+> GPL-2
+> MIT + file LICENSE
+> MIT + file LICENSE
+> GPL (>= 2)
+> GPL-2
+> GPL (>= 2)
+> GPL-3
+> GPL (>= 2)
+> GPL (>= 2)
+> GPL-3
+> GPL (>= 2)
+> GPL-2 | GPL-3
+> GPL-2 | file LICENSE
+> GPL-3
+> Artistic-2.0 | file LICENSE
+> LGPL (>= 2)
+> GPL (>= 3)
+> MIT + file LICENSE
+> GPL (>= 2)
+> Artistic-2.0 + file LICENSE
+> GPL (>= 2)
+> Artistic-2.0
+> GPL-2 | GPL-3
+> MIT + file LICENSE
+> GPL (>= 2)
+> GPL (>= 3)
+> GPL (>= 2)
+> GPL-2
+> GPL (>= 2)
+> GPL
+> MIT + file LICENSE
+> GPL (>= 2)
+> LGPL-2
+> GPL (>= 2)
+> GPL-2
+> GPL-2 | GPL-3
+> GPL (>= 2)
+> Part of R 3.3.2
+> BSD_3_clause + file LICENSE
+> GPL-2 | GPL-3
+> GPL-3 + file LICENSE
+> Part of R 3.3.2
+> Part of R 3.3.2
+> file LICENSE
+> GPL-2
+> GPL (>= 2)
+> Artistic-2.0
+> LGPL (>= 2)
+> Part of R 3.3.2
+> MIT + file LICENSE
+> GPL-3
+> GPL-3
+> MIT + file LICENSE
+> MIT + file LICENSE
+> Part of R 3.3.2
+> GPL-2 | GPL-3
+> Part of R 3.3.2
+> GPL-2
+> MIT + file LICENSE
+> MIT + file LICENSE
+> GPL (>= 2)
+> GPL-3
+> GPL (>= 2)
+> BSD_2_clause + file LICENSE
+> GPL (>= 2)
+> Artistic-2.0
+> BSD_3_clause + file LICENSE
+> Artistic-2.0 + file LICENSE
+> GPL-2 | GPL-3
+4468a2906
+> yes
+5259d3696
+< yes
+5273d3709
+< no
+5275,5276d3710
+< yes
+< no
+5278,5280d3711
+< yes
+< NA
+< yes
+5293,5295d3723
+< no
+< no
+< no
+5298d3725
+< NA
+5301,5302d3727
+< yes
+< no
+5306d3730
+< no
+5314,5315d3737
+< no
+< no
+5318,5319d3739
+< no
+< yes
+5323,5326d3742
+< no
+< no
+< yes
+< yes
+5329d3744
+< no
+5339,5340d3753
+< yes
+< yes
+5345d3757
+< yes
+5354,5360d3765
+< NA
+< NA
+< NA
+< no
+< no
+< yes
+< no
+5364a3770,3772
+> no
+> no
+> yes
+5373,5375d3780
+< yes
+< yes
+< yes
+5379,5381d3783
+< yes
+< NA
+< NA
+5383,5386d3784
+< no
+< no
+< no
+< yes
+5390c3788
+< no
+---
+> yes
+5394d3791
+< yes
+5407,5409d3803
+< NA
+< yes
+< yes
+5423d3816
+< yes
+5425d3817
+< NA
+5427d3818
+< no
+5431,5432c3822
+< NA
+< no
+---
+> yes
+5435a3826
+> NA
+5442d3832
+< yes
+5449,5450d3838
+< no
+< yes
+5452d3839
+< no
+5457,5458d3843
+< NA
+< yes
+5461d3845
+< no
+5467,5472d3850
+< no
+< no
+< no
+< yes
+< yes
+< no
+5475,5477d3852
+< yes
+< yes
+< yes
+5479,5480d3853
+< NA
+< yes
+5491,5494d3863
+< yes
+< yes
+< yes
+< yes
+5500,5501d3868
+< no
+< yes
+5505,5507d3871
+< no
+< no
+< no
+5511,5512d3874
+< yes
+< no
+5515d3876
+< yes
+5519,5521d3879
+< yes
+< yes
+< no
+5525d3882
+< no
+5531,5533d3887
+< yes
+< yes
+< NA
+5534a3889
+> NA
+5537d3891
+< NA
+5543,5546d3896
+< no
+< no
+< no
+< yes
+5552d3901
+< no
+5559,5561d3907
+< NA
+< no
+< no
+5564,5566d3909
+< no
+< NA
+< NA
+5569,5570d3911
+< no
+< yes
+5574d3914
+< NA
+5578,5582d3917
+< no
+< yes
+< yes
+< yes
+< NA
+5585a3921,3922
+> no
+> no
+5588d3924
+< NA
+5592,5595d3927
+< no
+< no
+< NA
+< no
+5603d3934
+< yes
+5609,5969c3940,4191
+< yes
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+< 3.2.1
+---
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
+> 3.3.2
