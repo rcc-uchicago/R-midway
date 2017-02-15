@@ -8,3 +8,5 @@
 
 + Debian website detailing use of R packages
   ([link](http://cran.r-project.org/bin/linux/debian)).
+
++ [keeping packages updated](http://askubuntu.com/questions/118671/good-workflow-for-updating-r-modules-around-r-cran-updates).
