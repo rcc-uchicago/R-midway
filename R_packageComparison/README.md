@@ -1,7 +1,7 @@
-# R-comparison
+#R package comparison
 
-R scripts to compare packages and versions on Midway 1 and 2.
+R package comparison of between Midway1 and Midway2.
 
-## File Descriptions
+##File details
 
-MidwayMerge merges the R packages from Midway 1 and Midway 2 and creates a single file with version number for either Midway 1 or 2 if such packet exists.
+R script pulls the package info from R on Midway 1 and 2. MidwayMerge.py creates a merged csv file containing a version number if a package was found in either Midway 1 or Midway 2.

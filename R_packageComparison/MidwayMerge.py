@@ -32,7 +32,7 @@ with open(fn2, 'r') as myfile:
     myfile.close()
 
 
-def Merge(dat,datMid):
+def Merge(dat, datMid):
     i=0
     MidwayMerge=[]
     while i<len(dat):
@@ -45,9 +45,7 @@ def Merge(dat,datMid):
                 if j==len(datMid)-1:
                     MidwayMerge.append(' ')
             j+=1
-        
         i+=1
-    return MidwayMerge
         
     
 ##i=0
@@ -64,15 +62,15 @@ def Merge(dat,datMid):
 ##        j+=1
 ##    i+=1
 
-midway1=Merge(dataAll, dataMid1)
-midway2=Merge(dataAll, dataMid2)
+
 fn = 'MidwayMatch_Rpackages.csv'
 with open(fn, 'wb') as myfile:
     outputFile = csv.writer(myfile)
     i=1
     outputFile.writerow(['Midway Package', 'Midway 1 Package Version', 'Midway 2 Package Version'])
-    while i<len(midway1):
-        outputFile.writerow([dataAll[i][0], midway1[i], midway2[i]])
+    while i<len(MidwayMatch):
+        outputFile.writerows([Merge(dataAll, dataMid1), Merge(dataAll, dataMid2)])
+
         
         i+=1
         
