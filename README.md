@@ -42,7 +42,5 @@ community (perhaps, ultimately, as an R package on CRAN).
 
 + See [here](web-resources.md).
 
-## Other notes
-
 + See [here](related-work.md) for previous works/resources that are
   related to this project.
